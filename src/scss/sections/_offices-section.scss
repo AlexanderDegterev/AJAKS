@@ -1,0 +1,251 @@
+.offices-section {
+	background: #fff;
+	.container {
+		h2 {
+			//font-size: 5.0vh;
+			font-size: 35px;
+			font-family: 'Euphemia';
+			color: #d36432;
+			text-align: center;
+			padding-top: 50px;
+			margin-bottom: 25px;
+			text-transform: uppercase;
+			position: relative;
+
+			@include media-breakpoint-down(sm) {
+				font-size: 25px;
+			}
+
+			span {
+				color: #868686;
+			}
+
+			&::after {
+			  	content: "";
+			  	display: block;
+			  	width: 280px;
+			  	height: 1px;
+				margin-top: 10px;
+			  	background: #adadad;
+			  	position: absolute;
+			  	//top: 100px;
+			  	left: 50%;
+			  	transform: translateX(-50%);
+
+                @include media-breakpoint-down(sm) {
+                  width: 260px;
+					margin-top: 10px;
+                }
+
+            }
+		}
+		p.info-offices {
+			font-size: 3.8vh;
+			font-family: 'Raleway-Medium';
+			color: #000;
+			opacity: 0.8;
+			text-indent: 1.5em; /* Отступ первой строки */
+    		text-align: justify;
+			padding-top: 50px;
+			margin-bottom: 90px;
+			line-height: 1.6;
+		}
+	}
+}
+
+.block-info {
+	h3 {
+		font-size: 5.5vh;
+		font-family: 'Euphemia';
+		color: #fff;
+		opacity: 0.9;
+		text-transform: uppercase;
+		margin: 0 0 50px;
+		text-align: center;
+
+		@include media-breakpoint-down(lg) {
+			font-size: 5vh;
+		}
+		@include media-breakpoint-down(md) {
+			font-size: 4.2vh;
+			margin: 0 0 35px;
+			
+		}
+		@include media-breakpoint-down(sm) {
+			font-size: 3vh;
+			margin: 0 0 25px;
+		}
+	}
+
+	span {
+		font-size: 3.5vh;
+		color: #fff;
+		display: block;
+		opacity: 0.8;
+		
+		&:not(:last-of-type) {
+			margin-bottom: 20px;
+		}
+		a {
+			color: #fff;
+		}
+		@include media-breakpoint-down(md) {
+			font-size: 2.7vh;
+			
+			&:not(:last-of-type) {
+				margin-bottom: 17px;
+			}
+		}
+		@include media-breakpoint-down(sm) {
+			font-size: 15px;
+			
+			&:not(:last-of-type) {
+				margin-bottom: 13px;
+			}
+		}
+	}
+
+	.info-footer-1 {
+		background: #5183a0;
+		font-size: 3.5vh;
+		font-family: 'Raleway-Medium';
+		color: #d36432;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+		padding-right: 60px;
+		
+		@include media-breakpoint-down(md) {
+			padding-right: 30px;
+		}
+		@include media-breakpoint-down(xs) {
+			justify-content: center;
+		}
+		
+			.info-block-1 {
+				display: inline-block;
+				padding: 20px 0;
+				
+				h3 {
+					text-align: left;
+					padding-left: 60px;
+
+					@include media-breakpoint-down(md) {
+						padding-left: 30px;
+					}
+					@include media-breakpoint-down(xs) {
+						padding-left: 0;
+						text-align: center;
+					}
+				}
+				.info-left {
+
+				}
+			}
+		}
+
+		.info-footer-2 {
+			background: #d36432;
+			font-size: 3.5vh;
+			font-family: 'Raleway-Medium';
+			color: #d36432;
+			display: flex;
+			align-items: center;
+			padding-left: 60px;
+			
+			@include media-breakpoint-down(md) {
+				padding-left: 30px;
+			}
+			@include media-breakpoint-down(xs) {
+				justify-content: center;
+			}
+
+			.info-block-2 {
+				display: inline-block;
+				padding: 20px 0;
+				
+				h3 {
+					text-align: left;
+			
+					@include media-breakpoint-down(xs) {
+						text-align: center;
+					}
+				}
+				.info-right {
+					text-align: left;
+					padding-left: 60px;
+
+					@include media-breakpoint-down(md) {
+						padding-left: 30px;
+					}
+					@include media-breakpoint-down(xs) {
+						padding-left: 0;
+						margin: 0% -5%;
+					}
+				}
+			}
+		}
+	.img-footer-1 {
+		background: #bdcbd4;
+		text-align: center;
+		justify-content: center;
+		display: flex;
+		align-items: center;
+	}
+	.img-footer-2 {
+		background: #84cd5d;
+		text-align: center;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+}
+
+.copyright-section {
+	.container {
+		.copyright {
+			text-align: center;
+			font-size: 30px;
+			font-family: 'Raleway-Regular';
+			color: #000;
+			padding: 60px 0;
+
+			@include media-breakpoint-down(md) {
+				font-size: 20px;
+				padding: 40px 0;
+			}
+			@include media-breakpoint-down(sm) {
+				font-size: 15px;
+				padding: 30px 0;
+			}
+		}
+	}
+}
+
+@include media-breakpoint-down(md) {
+	.offices-section .wrapper h2 span {
+		font-size: 30px;
+		&::after {
+		    width: 210px;
+		    top: 90px;
+		}
+	}
+	.offices-section .wrapper p.info-offices {
+		font-size: 20px;
+	    width: 90%;
+	    margin: 50px auto;
+	    padding-top: 0;
+	}
+	.copyright-section .wrapper .copyright {
+		font-size: 20px;
+	}
+}
+
+@include media-breakpoint-down(sm) {
+	.offices-section .container p.info-offices {
+		font-size: 15px;
+	    width: 90%;
+	    margin: 50px auto;
+	    padding-top: 0;
+	}
+}

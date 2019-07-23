@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+/node_modules
+/production
+*.pot\~
+*.po\~
+*.log
+*.sublime-project
+*.sublime-workspace
+gulpfile.config
+# Except this file
+!.gitignore

@@ -1,0 +1,54 @@
+#partners-container {
+  position: relative;
+  background-color: #ffffff;
+  //background-color: #b09a7e;
+  min-height: 500px;
+  color: #373531;
+
+  .delivery_price {
+    margin-left: 25%;
+    padding-top: 2%;
+    text-align: center;
+    .row {
+      ::before {
+        display: table;
+        content: "";
+        line-height: 0;
+      }
+      :after {
+        display: table;
+        content: "";
+        line-height: 0;
+      }
+    }
+  }
+  .delivery_place {
+    margin-left: 30%;
+    z-index: 3;
+  }
+  .example {
+    position: relative;
+    z-index: 10;
+  }
+  ::before {
+    z-index: 1;
+    content: '';
+    //background: #ecf0f1;
+    background: #7F7A70;
+    position: absolute;
+    //width: 100vh;
+    width: 2038px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    -moz-transform: skew(64deg) translateX(75%);
+    -ms-transform: skew(64deg) translateX(75%);
+    -o-transform: skew(64deg) translateX(75%);
+    -webkit-transform: skew(64deg) translateX(75%);
+    transform: skew(64deg) translateX(75%);
+  }
+  :after {
+    clear: both;
+  }
+}
+

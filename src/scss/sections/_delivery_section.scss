@@ -1,0 +1,89 @@
+#delivery-container {
+  background-image: url('../images/LP_img03.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: #ffffff;
+  min-height: 500px;
+  color: black;
+
+  .delivery_price {
+    margin-left: 25%;
+    padding-top: 2%;
+    text-align: center;
+    .row {
+      ::before {
+        display: table;
+        content: "";
+        line-height: 0;
+      }
+      :after {
+        display: table;
+        content: "";
+        line-height: 0;
+      }
+    }
+  }
+  .delivery_place {
+    margin-left: 30%;
+    z-index: 3;
+  }
+  .example {
+    position: relative;
+    z-index: 10;
+  }
+  ::before {
+    z-index: 1;
+    content: '';
+    background: #A4A19A;
+    position: absolute;
+    width: 2038px;
+    top: -85px;
+    bottom: 0;
+    right: 0;
+    -webkit-transform: skew(75deg) translateX(56%);
+    transform: skew(75deg) translateX(56%);
+    transform: skew(75deg) translateX(56%);
+  }
+  :after {
+    clear: both;
+  }
+}
+
+
+
+//#delivery-container {
+//  background-color: #fffafe;
+//  background-image: url('../images/DELIVERY_IVECO.png');
+//  background-repeat: no-repeat;
+//  min-height: 500px;
+//  color: black;
+//  text-align: center;
+//
+//  .row {
+//
+//  }
+//
+//  h1 {
+//    font-family: 'PT Sans', sans-serif;
+//    padding-top: 2%;
+//  }
+//  .delivery_price {
+//    margin-left: 50%;
+//  }
+//  .delivery_place {
+//    margin-left: 50%;
+//  }
+//  ::after {
+//    content: '';
+//    position: absolute;
+//    background: #4abd92;
+//    top: 50%;
+//    bottom: -476px;
+//    -moz-transform: skew(72.7deg) translateX(82%);
+//    -ms-transform: skew(72.7deg) translateX(82%);
+//    -o-transform: skew(72.7deg) translateX(82%);
+//    -webkit-transform: skew(72.7deg) translateX(82%);
+//    transform: skew(72.7deg) translateX(82%);
+//  }
+//}

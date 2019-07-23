@@ -1,0 +1,37 @@
+#reasons-container {
+  //display: flex;
+  background-image: url('../images/White_wood_dark.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffffff;
+  min-height: 500px;
+  font-family: Roboto;
+  color: black;
+  text-align: center;
+  h1 {
+    //padding-top: 5%;
+    //height: 15%;
+  }
+  .reasons-container__header{
+    color: #051934;
+    font-size: 1rem;
+    text-transform: uppercase;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .reasons-container__blok{
+    display: flex;
+    justify-content: center;
+
+  }
+  .reasons-container__elem{
+    //justify-content: center;
+    justify-content: space-between;
+    width: 15%;
+    h3 {
+      margin-top: 1.2rem;
+    }
+  }
+}

@@ -1,0 +1,144 @@
+.header-block-info {
+	position: absolute;
+	top: 0;
+	text-align: left;
+	height: 150px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.block-info-contact {
+	width: 30%;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+
+/*.header {
+	.header-desktop {
+		position: relative;
+	}
+	//WordPress 100-95
+	.header-desktop.right #hover {
+		clip-path: polygon(0% 0%, 52.2% 0%, 51.6% 42.4%, 54% 40%, 52% 100%, 0% 100%);
+	}
+	//Magento затемняет
+	.header-desktop.left #hover {
+		clip-path: polygon(52.2% 0%, 100% 0%, 100% 100%, 51.8% 100%, 55.1% 36.5%, 52.1% 39.0%);
+	}
+	.header-desktop.right .right-hover {
+		display: none;
+	}
+	.header-desktop.left .left-hover {
+		display: none;
+	}
+	#figura {
+		position: relative;
+		margin: 0 auto;
+		overflow: hidden;
+		text-align: center;
+		z-index: 10;
+		margin: 0 auto;
+		width: 1440px;
+		max-width: 100%;
+
+		.container-logo {
+		}
+		#top-logo {
+			position: absolute;
+			top: 6%;
+			left: 39%;
+			width: 25%;
+			pointer-events: painted;
+			z-index: 501;
+
+			&:hover {
+				z-index: 500;
+			}
+		}
+		#hover {
+			background-color: rgba(0, 0, 0, .5);
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 100%;
+			width: 100%;
+			pointer-events: none;
+		}
+		#capaRecorte {
+			display: block;
+			width: 100%;
+		}
+	}	//end figure
+
+	.left-box,
+	.right-box {
+		position: absolute;
+		top: 0;
+		height: 100%;
+		width: 50%;
+		z-index: 0;
+	}
+	.left-box {
+		left: 0;
+		background-color: #ff6d3d;
+	}
+	.right-box {
+		left: 50%;
+		background-color: #0d859d;
+	}
+	.left-hover {
+		@extend .left-box;
+	}
+	.right-hover {
+		@extend .right-box;
+	}
+	.left-hover,
+	.right-hover {
+		display: block;
+		background-color: rgba(0, 0, 0, .5);
+		z-index: 1;
+		pointer-events: none;
+	}
+
+	.header-mobile {
+		display: none;
+
+		#top-logo-mobile {
+			position: absolute;
+			top: 9%;
+			left: 21%;
+			width: 59%;
+			pointer-events: painted;
+			z-index: 501;
+		}
+	}
+}
+
+@media (max-width: 570px) {
+  #figura {
+    display: none;
+  }
+  #hover {
+    display: none;
+  }
+  .header {
+    .header-mobile {
+      display: block;
+    }
+  }
+}
+
+@media (max-width: 1440px) {
+  #hover {
+    background-color: rgba(0,0,0,.5);
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+  }
+}
+
+*/

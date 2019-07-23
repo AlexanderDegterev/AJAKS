@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bbbf29b-9217-485a-987a-65eb3ff1804f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/production/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="155" selection-start-line="155" selection-end-line="155" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/production/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9571">
+              <caret line="563" column="1" selection-start-line="563" selection-start-column="1" selection-end-line="563" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1649">
+              <caret line="97" column="7" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_motion_container.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/sections/_motion_container.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_offices-section.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/sections/_offices-section.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_contact-container.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/sections/_contact-container.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_delivery_section.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/sections/_delivery_section.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="23" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_about-container.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/sections/_about-container.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>previews</find>
+      <find>container</find>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html lang\=\&quot;en\&quot;\&gt;\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;UTF\-8\&quot;\&gt;\n    \&lt;title\&gt;Title\&lt;\/title\&gt;\n    \&lt;link href\=\&quot;css\/style\.css\&quot; rel\=\&quot;stylesheet\&quot;\/\&gt;\n    \&lt;link href\=\&quot;js\/app\.js\&quot; rel\=\&quot;stylesheet\&quot;\/\&gt;\n\&lt;\/head\&gt;\n\&lt;body\&gt;\n\&lt;header\&gt;\n    \&lt;div class\=\&quot;header\-block\-info\&quot;\&gt;\n        \&lt;div class\=\&quot;wrapper\&quot;\&gt;\n            \&lt;div class\=\&quot;block\-info\-contact\&quot;\&gt;\n                \&lt;i class\=\&quot;fa fa\-phone\&quot;\&gt; \&lt;\/i\&gt;\n                \&lt;span\&gt; \+375 \(152\) 41\-35\-93 \&lt;\/span\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n    \&lt;h1\&gt;Лучшие материалы для вашей мебели\!\&lt;\/h1\&gt;\n    \&lt;h2\&gt;РАСКРОЙ И РАСПИЛ ЛДСП\&lt;\/h2\&gt;\n    \&lt;h4\&gt;Лучшее немецкое оборудование для идеального распилапо вашим размерам без трещин и сколов\!\&lt;\/h4\&gt;\n    \&lt;small\&gt;Подзаголовок или текст\&lt;\/small\&gt;\n\&lt;\/header\&gt;\n\&lt;div id\=\&quot;container\&quot;\&gt;\n\n    \&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div class\=\&quot;content\&quot;\&gt;\n            \&lt;h2\&gt;РАСПИЛ\&lt;\/h2\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;previews\&quot;\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/i\.ytimg\.com\/vi\/c7oV1T2j5mc\/maxresdefault\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/images\.pexels\.com\/photos\/414171\/pexels\-photo\-414171\.jpeg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;http\:\/\/thirtyoneseventyfive\.com\/wp\-content\/uploads\/2018\/07\/archaicawful\-landscape\-photo\-ideas\-design\-garden\-creative\-landscapes\-contest\-viewbug\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/cdn\.fstoppers\.com\/styles\/large\/s3\/lead\/2018\/07\/take_better_shots_with_your_drone_landscape_photos\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/d31fr2pwly4c4s\.cloudfront\.net\/8\/6\/c\/1080632_0_landscape\-photography_400\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\n    \&lt;div class\=\&quot;item\&quot;\&gt;\n        \&lt;div class\=\&quot;content raskroj\&quot;\&gt;\n            \&lt;h2\&gt;РАСКРОЙ\&lt;\/h2\&gt;\n        \&lt;\/div\&gt;\n\n        \&lt;div class\=\&quot;previews\&quot;\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/cdn\.mos\.cms\.futurecdn\.net\/raYa9qNMVG8wDY4L3qp9c8\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/www\.popphoto\.com\/sites\/popphoto\.com\/files\/styles\/1000_1x_\/public\/images\/2018\/07\/00\-otherworldly\-national\-park\.jpg\?itok\=1bxhktRC\&amp;fc\=50\,50\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/www\.adorama\.com\/alc\/wp\-content\/uploads\/2016\/07\/americanwest\-mezz\-1024x576\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/www\.nationalgeographic\.com\/content\/dam\/photography\/photos\/000\/675\/67547\.ngsversion\.1467941445762\.adapt\.1900\.1\.jpg\&quot;\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;preview\-image\&quot;\&gt;\n                \&lt;img src\=\&quot;https\:\/\/i2\.wp\.com\/fotogr8\.com\/wp\-content\/uploads\/2016\/08\/jeffrey\-swanson\-landscape\-photographer\.jpg\?resize\=600\%2C397\&amp;ssl\=1\&quot;\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;div id\=\&quot;reasons\-container\&quot;\&gt;\n    \&lt;h1\&gt;ПОЧЕМУ ВЫГОДНО РАБОТАТЬ С НАМИ\&lt;\/h1\&gt;\n    \&lt;i class\=\&quot;fas fa\-certificate\&quot;\&gt;\&lt;\/i\&gt;\&lt;h3\&gt;ПРЯМЫЕ ДИЛЕРЫ ОСНОВНЫХ ЗАВОДОВ ПРОИЗВОДИТЕЛЕЙ\&lt;\/h3\&gt;\n    \&lt;h3\&gt;БОЛЕЕ 100 ДЕКОРОВ ЛДСП ВСЕГДА В НАЛИЧИИ\&lt;\/h3\&gt;\n    \&lt;h3\&gt;СКОРОСТЬ ОБРАБОТКИ ЗАКАЗА\&lt;\/h3\&gt;\n    \&lt;h3\&gt;БОЛЬШИЕ ПРОИЗВОДСТВЕННЫЕ МОЩНОСТИ\&lt;\/h3\&gt;\n    \&lt;h3\&gt;КАЧЕСТВО ИЗДЕЛИЙ\&lt;\/h3\&gt;\n    \&lt;h3\&gt;ОПЕРАТИВНАЯ ДОСТАВКА\&lt;\/h3\&gt;\n\&lt;\/div\&gt;\n\n\&lt;div id\=\&quot;delivery\-container\&quot;\&gt;\n    \&lt;div class\=\&quot;row\&quot;\&gt;\n\n    \&lt;\/div\&gt;\n    \&lt;h1\&gt;ДОСТАВКА\&lt;\/h1\&gt;\n    \&lt;div class\=\&quot;delivery_price\&quot;\&gt;\n        \&lt;p\&gt;ДОСТАВКА от 25 руб\.\&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n    \&lt;div class\=\&quot;delivery_place\&quot;\&gt;\n        \&lt;p\&gt;БЫСТРО ДОСТАВИМ В ЛЮБУЮ ТОЧКУ ГРОДНО\&lt;\/p\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;div id\=\&quot;partners\-container\&quot;\&gt;\n    \&lt;div class\=\&quot;delivery_price\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;example\&quot;\&gt;\n                \&lt;h1\&gt;НАШИ ПАРТНЕРЫ\&lt;\/h1\&gt;\n                \&lt;p\&gt;ДОСТАВКА от 25 руб\.\&lt;\/p\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\n\&lt;\/div\&gt;\n\n\&lt;div id\=\&quot;contact\-container\&quot;\&gt;\n    \&lt;h1\&gt;КОНТАКТЫ\&lt;\/h1\&gt;\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\&lt;\/html\&gt;</find>
+      <find>$grey3</find>
+      <find>#container</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Image.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_header-section.scss" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_contact-container.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/scss/sections/delivery_section.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_reasons-section.scss" />
+        <option value="$PROJECT_DIR$/src/scss/_image_wow.scss" />
+        <option value="$PROJECT_DIR$/src/scss/app.scss" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_partners-container.scss" />
+        <option value="$PROJECT_DIR$/src/scss/_site.scss" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_about-container.scss" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_delivery_section.scss" />
+        <option value="$PROJECT_DIR$/src/scss/sections/_motion_container.scss" />
+        <option value="$PROJECT_DIR$/production/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="112" />
+    <option name="y" value="4" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AJAKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAKS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AJAKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAKS" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AJAKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAKS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AJAKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAKS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AJAKS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AJAKS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="sections" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bbbf29b-9217-485a-987a-65eb3ff1804f" name="Default" comment="" />
+      <created>1559137425938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559137425938</updated>
+      <workItem from="1559137427369" duration="53869000" />
+      <workItem from="1559909679236" duration="598000" />
+      <workItem from="1563360127349" duration="1249000" />
+      <workItem from="1563361691036" duration="409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56125000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21625" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985657" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/production/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9571">
+          <caret line="563" column="1" selection-start-line="563" selection-start-column="1" selection-end-line="563" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="7" lean-forward="true" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_motion_container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_offices-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_contact-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_delivery_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_about-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_motion_container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_offices-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_contact-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_delivery_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_about-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_reasons-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_motion_container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_offices-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_contact-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_delivery_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_about-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_reasons-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image_wow.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/_custom.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/components/_article.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_form-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_services-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_header-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1449">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_theme_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_image_wow.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_partners-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_reasons-section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_about-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_offices-section.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_contact-container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_delivery_section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/sections/_motion_container.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="7" selection-start-line="97" selection-start-column="7" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9571">
+          <caret line="563" column="1" selection-start-line="563" selection-start-column="1" selection-end-line="563" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
